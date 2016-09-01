@@ -4,6 +4,7 @@ import com.alibaba.fastjson.JSON
 import com.example.entity.User
 
 /**
+ * 用户资源的测试用例
  * Created by Administrator on 2016/8/28.
  */
 class UserResourceTest {
